@@ -1,7 +1,7 @@
 # azure-synapse-mcp-server-by-cdata
 CData's Model Context Protocol (MCP) Server for Azure Synapse
 
-:heavy_exclamation_mark: This project builds a read-only MCP server. For full read, write, update, delete, and action capabilities and a simplified setup, check out our free [CData MCP Server for Azure Synapse (beta)](https://www.cdata.com/download/download.aspx?sku=HEZK-V&type=beta). 
+:heavy_exclamation_mark: This project builds a read-only MCP server. For full read, write, update, delete, and action capabilities and a simplified setup, check out our free [CData MCP Server for Azure Synapse (beta)](https://www.cdata.com/download/download.aspx?sku=HEZK-V&type=beta). 
 ## Purpose
 We created this read-only MCP Server to allow LLMs (like Claude Desktop) to query live data Azure Synapse supported by the [CData JDBC Driver for Azure Synapse](https://www.cdata.com/drivers/azuresynapse/jdbc).
 
